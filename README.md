@@ -1,0 +1,2 @@
+# globalG
+To the world
